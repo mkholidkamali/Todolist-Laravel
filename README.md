@@ -1,4 +1,4 @@
-<h1 align="center">Mini Blog</h1>
+<h1 align="center">Todolist</h1>
 
 ## Tentang Todolist
 Self Project ke-1, untuk melihat dan mengelola todolist. Dibuat menggunakan framework Laravel dan Framework Bootstrap. Di project ini saya belajar dan menerapkan beberapa hal :
